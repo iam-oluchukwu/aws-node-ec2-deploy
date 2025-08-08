@@ -14,6 +14,7 @@ instance.
 ## Project Structure
 
 aws-node-ec2-deploy/
+
 ├── client/index.html
 
 ├── .env
